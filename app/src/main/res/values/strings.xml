@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="hint">Enter a number</string>
+    <string name="result_field">Result</string>
+    <string name="button_add">+</string>
+    <string name="button_subtract">-</string>
+    <string name="button_multiply">*</string>
+    <string name="button_divide">/</string>
+
+    <string name="error_zero_division">Cannot divide by zero</string>
+
+    <string name="menu_item_1">Calculator</string>
+    <string name="menu_item_2">Gallery</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+</resources>

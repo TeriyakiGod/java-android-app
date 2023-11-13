@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph">
+
+    <activity
+        android:id="@+id/nav_calculator"
+        android:name="com.kacper.calculator.Calculator"
+        android:label="Calculator Activity">
+    </activity>
+
+    <activity
+        android:id="@+id/nav_gallery"
+        android:name="com.kacper.calculator.Gallery"
+        android:label="Gallery Activity"/>
+</navigation>
