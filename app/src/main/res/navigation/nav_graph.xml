@@ -5,12 +5,12 @@
 
     <activity
         android:id="@+id/nav_calculator"
-        android:name="com.kacper.calculator.Calculator"
+        android:name="com.kacper.calculator.CalculatorView"
         android:label="Calculator Activity">
     </activity>
 
     <activity
         android:id="@+id/nav_gallery"
-        android:name="com.kacper.calculator.Gallery"
+        android:name="com.kacper.calculator.GalleryView"
         android:label="Gallery Activity"/>
 </navigation>

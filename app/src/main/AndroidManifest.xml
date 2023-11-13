@@ -13,10 +13,10 @@
         android:theme="@style/Theme.Calculator"
         tools:targetApi="31">
         <activity
-            android:name=".Gallery"
+            android:name=".GalleryView"
             android:exported="false" />
         <activity
-            android:name=".Calculator"
+            android:name=".CalculatorView"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
